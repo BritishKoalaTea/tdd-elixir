@@ -1,6 +1,6 @@
-# TDD Elixir
+# TDD Elixir #
 
-Install: 'mix deps get'
+Install: 'mix deps.get'
 
 Compile: 'mix compile'
 
@@ -17,11 +17,13 @@ Tests for:
 * Calculate the factorial fo a number (note, don't try this for numbers over 21)
 * Get the current year
 
+
 * Calculate days until Christmas this year
 * Calculate days between two given dates
 * Calculate if a given month/year has a Friday the Thirteenth
 * Count the number of Friday the Thirteenths in a given year (always between 1 and 3)
 * Calculate if a given year is a leap year
+
 
 * Get a 200 response from the Mars REMS data from CSIC-INTA (Swagger docs here: https://maas2.jiinxt.com/)
 * Get the latest Martian Sol from the MAAS2 data
@@ -29,5 +31,6 @@ Tests for:
 * Get the low temperature from the Mars weather file
 * Get the high temperature from the Mars weather file
 * Get the temperature range from the Mars weather file
+
 
 Using HTTPotion and Timex libraries.
