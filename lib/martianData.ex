@@ -1,7 +1,7 @@
 defmodule MartianData do
 
 	def getResponseFromEndpoint do
-		HTTPotion.get "https://api.maas2.jiinxt.com/"
+		HTTPotion.get "https://api.maas2.apollorion.com/"
 	end
 
 	defp getDataFromNasa do
