@@ -25,7 +25,7 @@ Tests for:
 * Calculate if a given year is a leap year
 
 
-* Get a 200 response from the Mars REMS data from CSIC-INTA (Swagger docs here: https://maas2.jiinxt.com/)
+* Get a 200 response from the Mars REMS data from CSIC-INTA (Swagger docs here: https://maas2.apollorion.com/
 * Get the latest Martian Sol from the MAAS2 data
 * Read historical Martiuan weather data from a file
 * Get the low temperature from the Mars weather file
